@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13163540174",
+    "firebase_url": "https://tictactoepro-aee51.firebaseio.com",
+    "project_id": "tictactoepro-aee51",
+    "storage_bucket": "tictactoepro-aee51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13163540174:android:5d1a8c82170feb0b",
+        "android_client_info": {
+          "package_name": "com.revorg.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13163540174-292liaa0tqmjq605a0kbcld6lmlajkrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revorg.tictactoe",
+            "certificate_hash": "98a7f62913f79aa3b0ef8b34128e4286f02bb25c"
+          }
+        },
+        {
+          "client_id": "13163540174-ghvfh0i3hqj5m6r56ed4cjtctjj213me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbiCtrr4lPFkpAU_gZ_foCQaFUOHnjmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13163540174-ghvfh0i3hqj5m6r56ed4cjtctjj213me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
